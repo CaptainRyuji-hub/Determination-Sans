@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Determination Sans";
+    src: url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.eot");
+    src: url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/c5b8c461ca04a50802b51d83c0ef2ab0.svg#Determination Sans")format("svg");
+}
